@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: William deLone Hutter - Portfolio
 permalink: /projects/
 ---
 
