@@ -3,18 +3,24 @@ layout: project
 title: Remote Controlled Ornithopter
 description: Remote controlled drone that mimics the flight of a bird
 technologies: 
-image: /assets/images/spaceship-design.jpg
+image: /assets/images/drone1.png
 ---
 
 ## Overview
 
 Another design I am proud of is my remote controlled ornithopter, or a drone that mimics the flapping motion of bird wings. I worked alongside a partner, where I designed the mechanical aspects of the drone, and he worked on the motor, power, and control.
 
+![progressDrone]({{ "/assets/images/drone2.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+
 ## Design Details
 
 I created a two-stage belt drive that produced a 1:16 gear reduction. A belt drive provided the necessary durability, as 3d printed gears proved too fragile to survive a crash. The belt drive connected to a cam that drove the vertical wing oscillations with a linkage connected to universal joints.
 
+![joints]({{ "/assets/images/drone3.pdf" | relative_url }}){: .inline-image-r style="width: 200px"}
+
 The wings featured a joint in the middle that had a range of 10-45 degrees. This gave the wings a smaller cross section perpendicular to motion as they travelled upwards, which created net lift.
+
+![challenges]({{ "/assets/images/drone4.png" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 ### Challenges
 
