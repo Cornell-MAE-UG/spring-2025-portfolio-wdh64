@@ -32,14 +32,24 @@ The torque wrench consists of a rectangular handle and drive. The drive has exte
 
 ## Material Selection
 
-The torque wrench had 
+To satisfy the requirements, the material needs to have a high yield strength, fracture toughness, and fatigue strength, but also a relatively low young's modulus so that there is enough strain at the strain guague. I settled on Maraging 250 Steel since it fit all of these criteria with a yield strength of 238 ksi, a fracture toughness of 109 ksi sqrt(in) and a fatigue strength 93.1 ksi. The young's modulus was 2650 ksi.
 
-![joints]({{ "/assets/images/drone3.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+## Boundary Conditions
+![joints]({{ "/assets/images/TW_Boundary_Cond.png" | relative_url }}){: .inline-image style="width: 1000px"}
 
-The wings featured a joint in the middle that had a range of 10-45 degrees. This gave the wings a smaller cross section perpendicular to motion as they travelled upwards, which created net lift.
+## Normal Strain
+![joints]({{ "/assets/images/TW_Normal_Strain.png" | relative_url }}){: .inline-image style="width: 1000px"}
+
+
+## Principal Stess
+![joints]({{ "/assets/images/TW_Principal_Stress.png" | relative_url }}){: .inline-image style="width: 1000px"}
+
+## Guague Strain and Guague Selection
+![joints]({{ "/assets/images/TW_Strain_at_Guage.png" | relative_url }}){: .inline-image style="width: 1000px"}
+<br>
+The strain at the guage was 1.127e-3 in/in which translates to 1.127mV/V and satisfies the requirements.
+
+I chose the Micro-Measurements C4a strain guague https://www.digikey.com/en/products/detail/micro-measurements-division-of-vishay-precision-group/MMF403817/9857825. This provided a small enough
+
 
 ![challenges]({{ "/assets/images/drone4.png" | relative_url }}){: .inline-image-r style="width: 200px"}
-
-### Challenges
-
-The main challenge with this device was keeping it lightweight while remaining cheap, since we funded the project out of pocket. My partner scavenged the brushless motor and flight controller from a RC drone, and I used a wooden dowel and 3d print structure for the body of the drone. I spent a little extra on carbon fiber rods because weight on the wings created much larger stresses on the 3d printed joints. The front featured a replaceable crumple zone that would shield the body of the ornithopter when it crashed into the ground.
