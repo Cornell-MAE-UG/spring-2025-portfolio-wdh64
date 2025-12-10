@@ -1,11 +1,11 @@
-# Portfolio Instructions
+# Portfolio Instructions 
 
 This is a template for you to start building your professional portfolio. It is also part of your journey at MAE and will be reviewed, as needed, by your instructor and the Undergraduate Program Office.
 
 Note that this is your personal copy of the portfolio template repository. It was created automatically when you accepted the Assignment through the GitHub Classroom link you were provided.
 
 ## Portfolio Editing Workflow
-The workflow of editing and publishing your portfolio goes as follows:
+The workflow of editing and publishing your portfolio goes as follows: 
 
 1. **Create a local copy** of your portfolio, either on your computer or in an online "Codespace".
 2. **Edit any relevant template files**, add images, new project pages, text, etc. Remember to [commit](https://docs.github.com/en/get-started/using-git/about-git#basic-git-commands) often to save your progress.
