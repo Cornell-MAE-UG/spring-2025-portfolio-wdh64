@@ -76,7 +76,7 @@ displacement =  0.2013 in
 strength safety factor = 7.1400
 
 
-crack safety factor = 1.5535
+crack safety factor = 2.1535
 
 
 fatigue safety factor = 2.7930
