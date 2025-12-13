@@ -6,3 +6,4 @@ technologies: MATLAB,
 ---
 
 [Open the PDF]({{ '/assets/images/Sailboat_Model.pdf' | relative_url }})
+ 
