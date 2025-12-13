@@ -106,3 +106,4 @@ I chose the Micro-Measurements C4a strain guague https://www.digikey.com/en/prod
 
 
 ![challenges]({{ "/assets/images/drone4.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+
