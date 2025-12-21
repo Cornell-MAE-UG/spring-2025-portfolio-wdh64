@@ -16,7 +16,7 @@ Another design I am proud of is my remote controlled ornithopter, or a drone tha
 
 I created a two-stage belt drive that produced a 1:16 gear reduction. A belt drive provided the necessary durability, as 3d printed gears proved too fragile to survive a crash. The belt drive connected to a cam that drove the vertical wing oscillations with a linkage connected to universal joints.
 
-![joints]({{ "/assets/images/drone3.pdf" | relative_url }}){: .inline-image-r style="width: 200px"}
+![joints]({{ "/assets/images/drone3.png" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 The wings featured a joint in the middle that had a range of 10-45 degrees. This gave the wings a smaller cross section perpendicular to motion as they travelled upwards, which created net lift.
 
