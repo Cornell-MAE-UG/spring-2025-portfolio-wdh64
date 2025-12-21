@@ -9,9 +9,6 @@ image: /assets/images/HT_Pic.png
 
 This is the transaxle we dissected. This exact one was part of a riding lawnmower and allows the wheels to rotate at different rates to allow for smooth turns
 
-<br>
-![Overview]({{ "/assets/images/HT_Pic.png" | relative_url }}){: .inline-image style="width: 200px"}
-<br>
 
 Within the transaxle, we found a hydrostatic transmission device. This allows for smooth transitions between speeds without needing to use gears or a clutch. A lever or pedal is moved by the operator that is connected to a swash plate in the housing of a positive displacement piston pump. The piston pump contains 5 cylinders loaded with springs, so when the lever is engaged, the angle of the plate changes and the pistons compress to different amounts. This alters the amount of fluid sent through the lines to the hydraulic motor, where another piston pump gets rotated by the influx of fluid. The rotation then goes through the rest of the transaxle and causes the wheels to spin. The fluid in the motor gets pushed back to the pump, and creates a circular system.
 
